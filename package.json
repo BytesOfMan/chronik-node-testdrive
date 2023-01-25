@@ -1,0 +1,16 @@
+{
+  "name": "chronik-node-testdrive",
+  "version": "1.0.0",
+  "description": "A collection of node scripts for working with the eCash chronik indexer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "chronik-client": "^0.8.1",
+    "ecashaddrjs": "^1.0.7"
+  }
+}
